@@ -29,7 +29,7 @@ To overcome this, Mars Real Estate needed a robust data pipeline that could reli
 ### Tech Stack
 - Languages & Libraries: Python, pandas, requests, psycopg2, json
 - Database: PostgreSQL
-- Tools: GitHub Desktop, pgAdmin
+- Tools: GitHub Desktop, pgAdmin, Visual Studio
 - API: RentCast Property API
 
 ### Summary
