@@ -1,9 +1,7 @@
 ## Real Estate Data Pipeline: Extraction to PostgreSQL
 
 ### Project Overview
-This project demonstrates an end-to-end data engineering pipeline that extracts real estate property data from a public API, \
-performs exploratory data analysis and transformation, and loads it into a PostgreSQL database using a dimensional model. \
-The project ensures data quality, scalability, and a clean structure for analytical consumption.
+This project demonstrates an end-to-end data engineering pipeline that extracts real estate property data from a public API, performs exploratory data analysis and transformation, and loads it into a PostgreSQL database using a dimensional model. The project ensures data quality, scalability, and a clean structure for analytical consumption.
 
 ### Problem Statement
 Mars Real Estate is expanding its operations and aiming to make data a central part of its property investment strategy. However, the company faced a major challenge: property data was coming from various third-party sources in unstructured and inconsistent formats, making it difficult to evaluate market trends, assess property values, and support strategic decision-making.
