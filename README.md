@@ -6,8 +6,9 @@ performs exploratory data analysis and transformation, and loads it into a Postg
 The project ensures data quality, scalability, and a clean structure for analytical consumption.
 
 ### Problem Statement
-Real estate property data often comes in nested JSON formats and is spread across multiple unstructured or semi-structured sources.\
-The goal was to build a structured, query-optimized, relational database from API-sourced real estate data, enabling future insights generation and reporting.
+Mars Real Estate is expanding its operations and aiming to make data a central part of its property investment strategy. However, the company faced a major challenge: property data was coming from various third-party sources in unstructured and inconsistent formats, making it difficult to evaluate market trends, assess property values, and support strategic decision-making.
+
+To overcome this, Mars Real Estate needed a robust data pipeline that could reliably extract large volumes of real estate data, clean and organize it, and store it in a structured, analysis-ready format. The goal was to lay the groundwork for advanced analytics and business intelligence tools that would empower agents, analysts, and executives to make faster, smarter decisions across the organization.
 
 ### Project Scope
 - Extract property listings from RentCast’s API.
